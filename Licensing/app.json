@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+  "id": "915e15f4-558e-4caf-91d4-b4bb22fbc58d",
+  "name": "Common",
+  "publisher": "Scott",
+  "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
